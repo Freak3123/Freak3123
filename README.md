@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashreeta Patra</h1>
-<h3 align="center">Full-Stack Developer | AI-Driven Web Experiences | ITER'26 | Codex Core Member</h3>
+<h3 align="center">Full-Stack Developer | AI-Driven Web Experiences | ITER'26 </h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=freak3123&label=Profile%20views&color=0e75b6&style=flat" alt="freak3123" />
@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 I’m currently working as a **Full-Stack Developer Intern at Alesa AI (UK)**  
+- 🔭 I worked as a **Full-Stack Developer Intern at Alesa AI (UK)**  
 - 🌱 Learning and building with **Next.js, Supabase, Prisma, and AI integrations**  
 - 💡 Passionate about **AI-powered, scalable, and visually rich web apps**  
 - 💻 Built and shipped projects like **Maparena**, **Bukster**, and **Musify**  
